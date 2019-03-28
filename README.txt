@@ -3,7 +3,7 @@ TITLE:
 Shop - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Steffen Joshua Solomon
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
